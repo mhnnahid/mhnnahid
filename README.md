@@ -3,7 +3,7 @@
 #### I am a student of software engineering.
 Here I come to store my different category code so that anyone can get help to understand programming language and web language so easily.
 
-Skills:  / REACT / JS / HTML / CSS
+Skills:  / REACT / JS / HTML / CSS/Cyber Security
 
 - 🔭 I’m currently working on cyber security & web development. 
 - 🌱 I’m currently learning Web security. 
